@@ -9,8 +9,8 @@ Notebook de Introdução a Biblioteca Pandas, ideal para iniciantes.
 
 Para executar o projeto, basta:
 
-- 1 - baixar o arquivo "Data Science - Introdução ao Pandas.ipynb";
-- 2 - executar no Jupyter Notebook computador ou no Google COLAB.
+1. baixar o arquivo "Data Science - Introdução ao Pandas.ipynb";
+2. executar no Jupyter Notebook computador ou no Google COLAB.
 
 
 ## Links Úteis
